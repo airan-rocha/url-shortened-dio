@@ -28,7 +28,7 @@ export class URLController {
 		}
 
 		if (url) {
-			response.json(url)
+			response.redirect(url.originURL)
 			return
 		}
 
