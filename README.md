@@ -4,7 +4,7 @@
 
 Nesse repositório, estou colocando os arquivos do desafio: Criando Encurtador de URL com TypeScript e MongoDB.
 
-fiz o código seguindo o que foi proposto no desafio, e deixei retirei o meu usuario e senha do mongoDB deste projeto por motivos de segurança.
+fiz o código seguindo o que foi proposto no desafio, e retirei o meu usuario e senha do mongoDB deste projeto por motivos de segurança.
 
 
 ### _Como me encontrar:_
